@@ -1,0 +1,15 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+# Visual Studio user settings
+*.user
+
+# Development settings (local)
+appsettings.Development.json
+*.user
+appsettings.Development.json
