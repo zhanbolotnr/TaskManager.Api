@@ -13,3 +13,9 @@ obj/
 appsettings.Development.json
 *.user
 appsettings.Development.json
+appsettings.Development.json
+# Visual Studio user settings
+*.user
+
+# Local dev settings
+appsettings.Development.json
